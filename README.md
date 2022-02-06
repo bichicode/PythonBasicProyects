@@ -67,6 +67,28 @@ Tamaño Precio
 3 20.00
 Cada ingrediente adicional cuesta $1.50
 
+Taller4_Problema1
+Escribir los números del 0 al 9, utilizando una repetición.
+
+Taller4_Problema2
+Escribir los números entre el 5 y el 20, saltando de tres en tres.
+
+Taller4_Problema3
+Se desea un programa que lea n números enteros. El programa debe suministrar el promedio 
+de la suma.
+
+Taller4_Problema4
+Crear un programa que permita al usuario ingresar los montos de las compras de un cliente 
+(se desconoce la cantidad de datos que cargará, la cual puede cambiar en cada ejecución), 
+cortando el ingreso de datos cuando el usuario ingrese el monto 0.
+Si ingresa un monto negativo, no se debe procesar y se debe pedir que ingrese un nuevo 
+monto. Al finalizar, informar el total a pagar teniendo que cuenta que, si las ventas superan el 
+total de $1000, se le debe aplicar un 10% de descuento.
+
+Taller4_Problema5
+Leer números enteros positivos de teclado, hasta que el usuario ingrese el 0. Informar cuál 
+fue el mayor número ingresado.
+
 
 
 
